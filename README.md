@@ -1,0 +1,1 @@
+HTML/CSS practice for The Odin Project. Creating a Google Homepage clone.

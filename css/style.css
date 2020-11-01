@@ -1,0 +1,86 @@
+.navbar {
+    flex-direction: row;
+    margin-bottom: 200px;
+    text-align: right;
+}
+.nav {
+    display: inline-flex;
+}
+.gridbutton{
+    height: 25px;
+    width: 25px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.sign {
+    border: 1px;
+    background-color: #037bfc;
+    height: 25px;
+    width: 60px;
+}
+.logo {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 270px;
+}
+.search {
+    display: block;
+    text-align: center;
+    margin-top: 25px;
+}
+.function {
+    display: block;
+    margin-top: 30px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.actionbutton {
+    width: 150px;
+    height: 30px;
+    margin-right: 25px;
+}
+#foot1 {
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#privacy{
+    margin-left: 107em;
+    margin-bottom: 20px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+input[type=text] {
+    width: 500px;
+    height: 25px;
+    border-radius: 15px;
+ }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+li {
+    display: inline;
+   }
+footer {
+    position: absolute;
+    bottom: 0;
+    background-color: gray;
+}
